@@ -1,1 +1,1 @@
-Supported Deep Learning engineers in preparing Asian facial recognition data to reduce identity fraud risk; utilized Python for data cleaning and web scraping, efficiently processed and expanded datasets by 200%
+Supported Deep Learning engineers in preparing Asian facial recognition data to reduce identity fraud risk; utilized Python for data cleaning and web scraping, efficiently processed and expanded datasets by 20%
